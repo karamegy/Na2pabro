@@ -1,0 +1,6 @@
+{
+  "name": "Na2la V10 PRO - Cinematic Promotional Video",
+  "description": "60-second high-tech cinematic promotional video and interactive showcase for Na2la V10 PRO logistics and fleet management platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
